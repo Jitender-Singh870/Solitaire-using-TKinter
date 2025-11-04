@@ -76,7 +76,7 @@ If not, install it using your system package manager:
 1. Make sure your **card images** are stored in the path specified in the code:
 
    ```python
-   IMAGE_DIR = "C:/Users/jatin/OneDrive/Desktop/College Notes and stuff/cpp/projectss/Playing Cards"
+   IMAGE_DIR = "/Playing Cards"
    ```
 
    You can change this to any directory containing your card images.
