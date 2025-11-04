@@ -28,7 +28,6 @@ The project features realistic drag-and-drop card mechanics, automatic foundatio
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | ![Game Screenshot](/images/example1.png) | ![Card Example](/images/example2.png) |
 
-*(Add your screenshots in the `assets/` folder and replace the URLs above.)*
 
 ---
 
