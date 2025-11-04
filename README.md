@@ -157,8 +157,7 @@ pip install pillow
 
 **Jatinder Singh**
 Web Developer • App Developer • Python Programmer • Data Scientist
-📧 *[[your_email@example.com](mailto:your_email@example.com)]*
-🌐 [Portfolio Website](https://your-portfolio-link.com)
+📧 *[[jatindersingh8708@gmail.com](mailto:jatindersingh8708@gmail.com)]*
 
 ---
 
