@@ -26,7 +26,7 @@ The project features realistic drag-and-drop card mechanics, automatic foundatio
 
 | Gameplay Example                                                                         | Card Layout Example                                                                 |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| ![Game Screenshot](https://user-images.githubusercontent.com/example/solitaire-game.png) | ![Card Example](https://user-images.githubusercontent.com/example/card-example.png) |
+| ![Game Screenshot](/images/example1.png) | ![Card Example](/images/example2.png) |
 
 *(Add your screenshots in the `assets/` folder and replace the URLs above.)*
 
