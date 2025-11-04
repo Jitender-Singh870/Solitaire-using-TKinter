@@ -7,7 +7,7 @@ import random
 import re
 from PIL import Image, ImageTk, ImageDraw, ImageFont
 
-IMAGE_DIR = "C:/Users/jatin/OneDrive/Desktop/College Notes and stuff/cpp/projectss/Playing Cards"
+IMAGE_DIR = "/Playing Cards"
 
 SUITS = ["D", "C", "H", "S"]
 RANKS = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"]
